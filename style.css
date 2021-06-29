@@ -1,0 +1,14 @@
+h1{
+    color:red;
+}
+
+p{
+    color:black;
+}
+
+button{
+    background-color: blue;
+    color:white;
+    font-weight: 700;
+    font-size: medium;
+}
